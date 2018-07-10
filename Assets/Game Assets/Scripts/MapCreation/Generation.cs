@@ -126,7 +126,7 @@ public class Generation {
 
 		//TODO: Add game mode decisions for terrain
 		TerrainGen terrainGen = new TerrainGen(materials, water, false, false);
-		int randNum = random.Next(0, 99);
+		int randNum = 24; //random.Next(0, 99);
 
 		//Flat - (VR)
 		if (randNum <= 6) {
