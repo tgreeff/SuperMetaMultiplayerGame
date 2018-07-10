@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 381e02d8a87ac0b4d8c1eb4b9f5ed0c4
+timeCreated: 1522746964
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pPlane1
+    100012: pPlane10
+    100014: pPlane11
+    100016: pPlane14
+    100018: pPlane15
+    100020: pPlane16
+    100022: pPlane2
+    100024: pPlane3
+    100026: pPlane4
+    100028: pPlane5
+    100030: pPlane6
+    100032: pPlane9
+    100034: transform1
+    100036: transform2
+    100038: transform3
+    100040: transform4
+    100042: transform5
+    100044: transform6
+    100046: transform7
+    100048: transform8
+    100050: door1
+    100052: door2
+    100054: floor1
+    100056: floor2
+    100058: roof1
+    100060: roof2
+    100062: wall1
+    100064: wall2
+    100066: wall3
+    100068: wall4
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pPlane1
+    400012: pPlane10
+    400014: pPlane11
+    400016: pPlane14
+    400018: pPlane15
+    400020: pPlane16
+    400022: pPlane2
+    400024: pPlane3
+    400026: pPlane4
+    400028: pPlane5
+    400030: pPlane6
+    400032: pPlane9
+    400034: transform1
+    400036: transform2
+    400038: transform3
+    400040: transform4
+    400042: transform5
+    400044: transform6
+    400046: transform7
+    400048: transform8
+    400050: door1
+    400052: door2
+    400054: floor1
+    400056: floor2
+    400058: roof1
+    400060: roof2
+    400062: wall1
+    400064: wall2
+    400066: wall3
+    400068: wall4
+    2300000: pPlane1
+    2300002: pPlane10
+    2300004: pPlane11
+    2300006: pPlane14
+    2300008: pPlane15
+    2300010: pPlane16
+    2300012: pPlane6
+    2300014: pPlane9
+    2300016: door1
+    2300018: door2
+    2300020: floor1
+    2300022: floor2
+    2300024: roof1
+    2300026: roof2
+    2300028: wall1
+    2300030: wall2
+    2300032: wall3
+    2300034: wall4
+    3300000: pPlane1
+    3300002: pPlane10
+    3300004: pPlane11
+    3300006: pPlane14
+    3300008: pPlane15
+    3300010: pPlane16
+    3300012: pPlane6
+    3300014: pPlane9
+    3300016: door1
+    3300018: door2
+    3300020: floor1
+    3300022: floor2
+    3300024: roof1
+    3300026: roof2
+    3300028: wall1
+    3300030: wall2
+    3300032: wall3
+    3300034: wall4
+    4300000: pPlane1
+    4300002: pPlane6
+    4300004: pPlane9
+    4300006: pPlane10
+    4300008: pPlane11
+    4300010: pPlane14
+    4300012: pPlane15
+    4300014: pPlane16
+    4300016: floor1
+    4300018: roof1
+    4300020: door2
+    4300022: wall3
+    4300024: wall2
+    4300026: door1
+    4300028: wall4
+    4300030: wall1
+    4300032: roof2
+    4300034: floor2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 35
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

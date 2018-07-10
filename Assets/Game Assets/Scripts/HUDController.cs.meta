@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: bed5b0ea292fb3446b49932d2698f4cf
+timeCreated: 1519803373
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inventoryPanel: {instanceID: 0}
+  - dialogPanel: {instanceID: 0}
+  - shopPanel: {instanceID: 0}
+  - saveButton: {instanceID: 0}
+  - exitButton: {instanceID: 0}
+  - purchaseButton: {instanceID: 0}
+  - moneyBalanceText: {instanceID: 0}
+  - healthBalanceText: {instanceID: 0}
+  - healthTotalText: {instanceID: 0}
+  - interactionText: {instanceID: 0}
+  - dialogText: {instanceID: 0}
+  - compass: {instanceID: 0}
+  - boxingBox: {fileID: 114775981386579830, guid: 4ac381dc37ebb5a4f9d9aa3935e1e1ce,
+      type: 2}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

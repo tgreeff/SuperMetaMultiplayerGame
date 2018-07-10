@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: c5525b6ca795e6b4aa0dd3fcc4bb1f74
+timeCreated: 1522746965
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pPlane1
+    100012: pPlane10
+    100014: pPlane14
+    100016: pPlane16
+    100018: pPlane2
+    100020: pPlane3
+    100022: pPlane4
+    100024: pPlane5
+    100026: pPlane6
+    100028: pPlane9
+    100030: transform1
+    100032: transform2
+    100034: transform3
+    100036: transform4
+    100038: transform5
+    100040: transform6
+    100042: transform7
+    100044: transform8
+    100046: door1
+    100048: door2
+    100050: door3
+    100052: floor1
+    100054: roof1
+    100056: wall1
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pPlane1
+    400012: pPlane10
+    400014: pPlane14
+    400016: pPlane16
+    400018: pPlane2
+    400020: pPlane3
+    400022: pPlane4
+    400024: pPlane5
+    400026: pPlane6
+    400028: pPlane9
+    400030: transform1
+    400032: transform2
+    400034: transform3
+    400036: transform4
+    400038: transform5
+    400040: transform6
+    400042: transform7
+    400044: transform8
+    400046: door1
+    400048: door2
+    400050: door3
+    400052: floor1
+    400054: roof1
+    400056: wall1
+    2300000: pPlane1
+    2300002: pPlane10
+    2300004: pPlane14
+    2300006: pPlane16
+    2300008: pPlane6
+    2300010: pPlane9
+    2300012: door1
+    2300014: door2
+    2300016: door3
+    2300018: floor1
+    2300020: roof1
+    2300022: wall1
+    3300000: pPlane1
+    3300002: pPlane10
+    3300004: pPlane14
+    3300006: pPlane16
+    3300008: pPlane6
+    3300010: pPlane9
+    3300012: door1
+    3300014: door2
+    3300016: door3
+    3300018: floor1
+    3300020: roof1
+    3300022: wall1
+    4300000: pPlane1
+    4300002: pPlane6
+    4300004: pPlane9
+    4300006: pPlane10
+    4300008: pPlane14
+    4300010: pPlane16
+    4300012: floor1
+    4300014: roof1
+    4300016: door3
+    4300018: wall1
+    4300020: door2
+    4300022: door1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 35
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
